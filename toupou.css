@@ -207,7 +207,7 @@ nav li:hover .submenu{
     background-color: RGB(200, 165, 75);
 }
 
-nav input[type=checkbox]:checked- ul{
+nav input[type=checkbox]:checked ~ ul{
     display: block;
 }
 
